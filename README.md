@@ -38,12 +38,14 @@
         <td>No triangle</td>
     </tr>    
 </table>
+
 ## Technologies Used
 * HTML
 * CSS
 * Bootsrap
 * JQuery
 * Javascript
+
 ## Support and contact details
 contact me @jeremyjoy16@gmail.comS
 ### License
